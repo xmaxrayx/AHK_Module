@@ -1,3 +1,4 @@
+;----------------------------------------------------------------------------@subend madule@-------------------------@start@
 F12::
 Suspend
 If A_IsSuspended {
@@ -29,9 +30,10 @@ If A_IsSuspended {
 Return
 
 ;test
-;F1::Lwin
+F1::Lwin
 
 
 ;big thanks for "mikeyww" at AHK fourms the orignal code by him.
 ;https://www.autohotkey.com/boards/viewtopic.php?style=1&p=497755
 ;orignal code by "mikeyww" small mods by me "xmaxrayx"
+;----------------------------------------------------------------------------@subend madule@-------------------------@end@
