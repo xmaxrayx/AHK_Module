@@ -30,7 +30,7 @@ If A_IsSuspended {
 Return
 
 ;test
-F1::Lwin
+;F1::Lwin
 
 
 ;big thanks for "mikeyww" at AHK fourms the orignal code by him.
