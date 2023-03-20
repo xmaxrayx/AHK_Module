@@ -18,6 +18,7 @@ https://www.autohotkey.com/docs/v1/lib/Run.htm
 
 ## .AHK 
 `suspend.v1.ahk` press a Butten to turn off, on AHK hotkeys
+[a relative link](suspend.v1.ahk)
 
 ## .Bat
 
