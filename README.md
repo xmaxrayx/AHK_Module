@@ -2,3 +2,23 @@
 A place where I post scripts modules that you can copy-paste into your script
 
 please be noticed some I will post `bat` and `exe`   since they are better to handle windows in a native way  
+
+## Installation
+
+for `Ahk` just copy-paste it and then modify it
+
+for `EXE` and `Bat` just make it runnable with `Run` command
+
+
+```bash
+Run, C:\xxx\Hello_world.bat
+```
+https://www.autohotkey.com/docs/v1/lib/Run.htm
+
+
+## .AHK 
+`suspend.v1.ahk` press a Butten to turn off, on AHK hotkeys
+
+## .Bat
+
+`kill ahk64u.bat` too kill All AHK process 
