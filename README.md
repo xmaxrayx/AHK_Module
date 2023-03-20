@@ -17,9 +17,9 @@ https://www.autohotkey.com/docs/v1/lib/Run.htm
 
 
 ## .AHK 
-[`suspend.v1.ahk`](suspend.v1.ahk) press a Butten to turn off, on `AHK` hotkeys
+[`suspend.v1.ahk`](/suspend.v1.ahk) press a Butten to turn off, on `AHK` hotkeys
 
 
 ## .Bat
 
-[ `kill ahk64u.bat`](killahk64u.bat)  too kill All `AHK` process 
+[ `killahk64u.bat`](/killahk64u.bat)  too kill All `AHK` process 
