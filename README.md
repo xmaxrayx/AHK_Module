@@ -11,7 +11,7 @@ for `EXE` and `Bat` just make it runnable with `Run` command
 
 
 ```bash
-Run, C:\xxx\Hello_world.bat
+Run, C:\xxxxx\Hello_world.bat
 ```
 https://www.autohotkey.com/docs/v1/lib/Run.htm
 
