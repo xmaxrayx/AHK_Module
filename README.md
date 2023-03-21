@@ -22,4 +22,4 @@ https://www.autohotkey.com/docs/v1/lib/Run.htm
 
 ## .Bat
 
-[ `kill_ahk64u.bat`](/kill_ahk64u.bat)  too kill All `AHK` process 
+[ `kill_ahk64u.bat`](/kill_ahk64u.bat)   kill All `AHK` process 
