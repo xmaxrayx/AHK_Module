@@ -1,4 +1,5 @@
-;AI genrated by BingGPT
+;AI genrated by BingGPT this code nt mine.
+
 $e::
 KeyWait, e, T.4 ; 0.4 second
 IF ErrorLevel ;long press
