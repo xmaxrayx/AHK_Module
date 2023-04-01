@@ -1,1 +1,1 @@
-Taskkill -f -im AutoHotkeyU64.exe 
+Taskkill -f -im AutoHotkeyU64.exe
